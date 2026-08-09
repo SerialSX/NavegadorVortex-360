@@ -1,0 +1,39 @@
+# ============================================
+# Pastas geradas automaticamente pelo Unity
+# (barra inicial = so ignora na RAIZ do projeto,
+# nao afeta docs/Build, que e o build final versionado)
+# ============================================
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+/MemoryCaptures/
+
+# ============================================
+# Arquivos do Visual Studio / Rider / IDEs
+# ============================================
+.vs/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+.vsconfig
+
+# ============================================
+# Arquivos do sistema operacional
+# ============================================
+.DS_Store
+Thumbs.db
+
+# ============================================
+# NAO ignorar: docs/ e docs/Build/
+# (build WebGL final para GitHub Pages)
+# Nenhuma regra acima afeta essa pasta,
+# graças a barra inicial em cada linha.
+# ============================================
