@@ -34,7 +34,7 @@ Abre direto no navegador, sem download nem configuração. Clique em "Iniciar" e
 
 ### 2. itch.io (canal alternativo — acesso restrito)
 
-🔗 **[link do projeto no itch.io aqui]**
+🔗 **https://dalykan.itch.io/navegadorvortex-360**
 
 Página com acesso restrito. Use a senha abaixo quando solicitado:
 
